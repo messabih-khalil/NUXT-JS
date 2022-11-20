@@ -3,5 +3,9 @@
 }
 
 html{
-    background-color: red;
+    background-color: rgb(243, 243, 243);
+}
+
+body{
+    padding: 1rem;
 }
